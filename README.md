@@ -1,6 +1,5 @@
 - 👋 Hi, I’m FuMI.(@finou882)
 - 👀 I’m interested in image recognition ai
-- 💞️ I’m looking to collaborate on opencore
 - 📫 How to reach me send mail finou@outlook.jp
   See you
   Brother
