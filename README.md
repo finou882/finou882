@@ -1,6 +1,6 @@
 # finou882
 ## Most active repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/finou882/LinK)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=finou882&repo=LinK)](https://github.com/finou882/LinK)
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=finou882&theme=Gradient)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=finou882&theme=Gradient)
