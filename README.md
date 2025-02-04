@@ -2,11 +2,11 @@
 ## Most active repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/finou882/LinK)
 ## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=finou882&theme=gradient)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=finou882&theme=gradient)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=finou882&theme=gradient)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=finou882&theme=gradient)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=finou882&theme=gradient&utcOffset=9)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=finou882&theme=Gradient)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=finou882&theme=Gradient)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=finou882&theme=Gradient)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=finou882&theme=Gradient)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=finou882&theme=Gradient&utcOffset=9)
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=finou882&theme=gruvbox)
