@@ -1,22 +1,25 @@
-# finou882
-## Most active repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=finou882&repo=LinK)](https://github.com/finou882/LinK)
-## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=finou882&theme=Gradient)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=finou882&theme=Gradient)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=finou882&theme=Gradient)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=finou882&theme=Gradient)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=finou882&theme=Gradient&utcOffset=9)
+# 🛠 Finou | Full-stack Systems & Neural Research (づ ' 3 ') づ
 
-## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=finou882&theme=gruvbox)
+Passionate about solving complex problems through elegant technical solutions. 
+Currently focused on bridging the gap between high-performance system architecture and next-generation AI.
 
-## Ha!
+---
+
+### ⚡ Core Focus
+* **Scalable Communication Architecture**: Designing robust, cost-effective real-time streaming systems. While I leverage mature APIs for stability, I prioritize flexible architectures that prevent vendor lock-in and high infrastructure overhead.
+* **Neuromorphic Computing (SNN)**: Researching Spiking Neural Networks to achieve biological-level efficiency in machine learning, focusing on low-latency and low-power consumption models.
+* 
+### 🛡 Special Ops
+* **WSC Team**: Providing rapid emergency response and technical modernization for critical systems.
+
+### 🛠 Tech Stack
+- **Languages**: Rust, Ruby, JavaScript (TypeScript), Python
+- **Ecosystems**: Node.js, React, Docker, Linux ,Kubernetes
+- **Interests**: Resource-efficient Cloud Solutions, Bio-inspired AI
+
+### 📈 Activity
 ![](https://raw.githubusercontent.com/finou882/finou882/output/github-contribution-grid-snake.svg)
 
-  Brother
-
-<!---
-finou882/finou882 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+*“Technology is the means; resolution is the goal.”*
+Bye!
