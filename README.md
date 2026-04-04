@@ -1,4 +1,4 @@
-# 🛠 Finou | Full-stack Systems & Neural Research (づ ' 3 ') づ
+# 🛠 Finou | Full-stack Systems(づ ' 3 ') づ
 
 Passionate about solving complex problems through elegant technical solutions. 
 Currently focused on bridging the gap between high-performance system architecture and next-generation AI.
