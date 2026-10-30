@@ -1,4 +1,3 @@
-# 🛠 Finou | Fumiaki INOUE (づ ' 3 ') づ
+# 🛠 Finou (づ ' 3 ') づ
 
-*“Technology is the means; resolution is the goal.”*
-Bye!
+＊There seems to be nothing here.＊
